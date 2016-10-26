@@ -51,3 +51,9 @@ C:\GitProjects\web\BloggerApp\BloggerApp\bin\Newtonsoft.Json.xml
 C:\GitProjects\web\BloggerApp\BloggerApp\obj\Debug\BloggerApp.csprojResolveAssemblyReference.cache
 C:\GitProjects\web\BloggerApp\BloggerApp\obj\Debug\BloggerApp.dll
 C:\GitProjects\web\BloggerApp\BloggerApp\obj\Debug\BloggerApp.pdb
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Net.Http.Formatting.dll
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Web.Http.dll
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Web.Http.WebHost.dll
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Net.Http.Formatting.xml
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Web.Http.xml
+C:\GitProjects\web\BloggerApp\BloggerApp\bin\System.Web.Http.WebHost.xml

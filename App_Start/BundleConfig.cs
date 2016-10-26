@@ -28,7 +28,7 @@ namespace BloggerApp
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css", "~/Content/app.css", "~/Content/posts.css"));
+                      "~/Content/site.css", "~/Content/app.css", "~/Content/posts.css", "~/Content/admin.css"));
         }
     }
 }
